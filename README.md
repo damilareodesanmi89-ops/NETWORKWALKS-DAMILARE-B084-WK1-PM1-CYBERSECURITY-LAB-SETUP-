@@ -1,6 +1,6 @@
 My Cybersecurity Lab Environment Setup
 Project Overview:
-      ♦️Project Overview 
+      # 📌Project Overview 
    This project focuses on setting up a
    Virtual Cybersecurity and penetration-
    testing laboratory using VirtualBox and                
@@ -11,7 +11,7 @@ Project Overview:
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorised
 security testing 
 
-📌 Objectives 
+# 📌Objectives 
 
 The main objectives of this project are to:
 
@@ -64,7 +64,7 @@ The main objectives of this project are to:
      🔮 Future VM Range	10.0.0.3–10.0.0.99
    
 
-       # 🖥 Lab Setup Procedure
+       🖥 Lab Setup Procedure
 Step 1. Install 7-Zip
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 
