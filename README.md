@@ -91,6 +91,6 @@ The VM network adapter was configured as follows:
 
 
  Adapter 1
-Attached to: NAT Network
-Network:     NatNetwork
-Adapter Type: Intel PRO/1000 MT Desktop
+Attached to:   NAT Network
+Network:        ;NatNetwork
+Adapter Type:   Intel PRO/1000 MT Desktop
