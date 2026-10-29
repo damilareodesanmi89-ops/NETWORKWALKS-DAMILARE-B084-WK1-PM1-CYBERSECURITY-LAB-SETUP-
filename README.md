@@ -31,7 +31,7 @@ The main objectives of this project are to:
   ●Prepare the environment for future 
    Cybersecurity projects.
 
-🛡 Purpose of the Lab
+ #  🛡Purpose of the Lab
 
    The lab provides an isolated and controlled  
    for Cybersecurity learning and authorised 
