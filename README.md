@@ -1,4 +1,4 @@
- # 🖥My Cybersecurity Lab Environment Setup
+0 # 🖥My Cybersecurity Lab Environment Setup
 # 📌Project Overview:
 
    This project focuses on setting up a
@@ -64,7 +64,7 @@ The main objectives of this project are to:
      🔮 Future VM Range	10.0.0.3–10.0.0.99
    
 
-    # 🖥Lab Setup Procedure
+ #  🖥Lab set up procedure
 Step 1. Install 7-Zip
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 
