@@ -64,7 +64,7 @@ The main objectives of this project are to:
      🔮 Future VM Range	10.0.0.3–10.0.0.99
    
 
-       Lab Setup Procedure
+       # 🖥 Lab Setup Procedure
 Step 1. Install 7-Zip
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 
@@ -92,5 +92,5 @@ The VM network adapter was configured as follows:
 
  Adapter 1
 Attached to:   NAT Network
-Network:        ;NatNetwork
-Adapter Type:   Intel PRO/1000 MT Desktop
+Network:       NatNetwork
+Adapter Type:  Intel PRO/1000 MT Desktop
