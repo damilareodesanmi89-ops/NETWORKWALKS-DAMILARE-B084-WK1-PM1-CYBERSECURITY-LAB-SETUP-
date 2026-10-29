@@ -47,7 +47,7 @@ The main objectives of this project are to:
    ■ Exploitation practice 
    ■ Security-tool experimentation 
 
-    # 🛡Lab Configuration
+#  🖥Lab Configuration 
 
    🧩 Component	       ⚙️ Configuration
        🖥️ Host OS	       Windows 11
