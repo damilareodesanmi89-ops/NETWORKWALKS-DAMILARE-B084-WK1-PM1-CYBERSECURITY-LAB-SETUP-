@@ -141,3 +141,6 @@ Gateway:
 DNS:
 8.8.8.8
 
+#  📌Problems Encountered & Solutions 
+
+
