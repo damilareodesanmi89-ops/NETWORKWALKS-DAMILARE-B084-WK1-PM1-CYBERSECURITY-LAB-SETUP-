@@ -186,3 +186,13 @@ VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
  
  #   👤Author
+   
+      Odesanmi damilare 
+      Cybersecurity intern at Networkwalks-B084
+
+     LinkedIn: https://www.linkedin.com/in/damilare-odesanmi-95073a343?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+
+#  📌Project Information 
+    
+   Program Name: Cybersecurity at Networkwalks|Week: 01| Project: Cybersecurity and Pentesting Lab Setup| Repository: Github
