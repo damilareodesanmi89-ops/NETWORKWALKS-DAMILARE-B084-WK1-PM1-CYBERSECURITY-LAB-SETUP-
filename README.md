@@ -143,4 +143,14 @@ DNS:
 
 #  📌Problems Encountered & Solutions 
 
+Problem documenting is very important 
+
+After manually configuring the IPv4 settings 
+Internet connection failed 
+
+The solution I used on the lab
+
+  sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
+sudo nmcli connection down "Wired connection 1"
+sudo nmcli connection up "Wired connection 1"
 
